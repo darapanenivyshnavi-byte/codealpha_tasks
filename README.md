@@ -45,7 +45,8 @@ Power BI
 DAX
 CSV Dataset
 Dashboard Preview
-(HR )
+(<img width="1167" height="665" alt="image" src="https://github.com/user-attachments/assets/2c75f7cc-9885-4799-85df-6d916c39031d" />
+ )
 
 Author
 Vyshnavi
